@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dfxml xmloutputversion='1.0'>
+  <metadata 
+  xmlns='http://afflib.org/tcpflow/' 
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+    <dc:type>Feature Extraction</dc:type>
+  </metadata>
+  <creator version='1.0'>
+    <program>TCPFLOW</program>
+    <version>1.4.2</version>
+    <build_environment>
+      <compiler>4.2.1 (4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2335.15.00))</compiler>
+      <compilation_date>2014-02-21T22:06:11</compilation_date>
+      <library name="boost" version="105500"/>
+      <git commit="GIT_COMMIT"/>
+    </build_environment>
+    <execution_environment>
+      <os_sysname>Darwin</os_sysname>
+      <os_release>13.0.0</os_release>
+      <os_version>Darwin Kernel Version 13.0.0: Thu Sep 19 22:22:27 PDT 2013; root:xnu-2422.1.72~6/RELEASE_X86_64</os_version>
+      <host>188.242.102.107.pool.sknt.ru</host>
+      <arch>x86_64</arch>
+      <command_line>tcpflow</command_line>
+      <uid>0</uid>
+      <start_time>2014-02-22T01:08:26Z</start_time>
+    </execution_environment>
+  </creator>
+  <configuration>
+  </configuration>
+  <tdelta>0</tdelta>
